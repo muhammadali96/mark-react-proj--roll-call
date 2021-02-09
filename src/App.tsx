@@ -33,6 +33,27 @@ function App() {
         ]}
         origin="Roman Mythology"
       />
+       <Character
+        name="BATMAN"
+        nickname="the one with snakes in her hair"
+        location="Sarpedon"
+        hobbies={["turning people to stone", "baking sourdough bread"]}
+        origin="DC Comics"
+      />
+       <Character
+        name="cerci"
+        nickname="the one with snakes in her hair"
+        location="Sarpedon"
+        hobbies={["turning people to stone", "baking sourdough bread"]}
+        origin="Greek Mythology"
+      />
+       <Character
+        name="Medusa"
+        nickname="the one with snakes in her hair"
+        location="Sarpedon"
+        hobbies={["turning people to stone", "baking sourdough bread"]}
+        origin="Greek Mythology"
+      />
     </div>
   );
 }
